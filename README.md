@@ -1,6 +1,6 @@
 # Spring 5 Web App
 
-_" A simple web app that leverages "_
+_" A simple web app that just touches the surface of the spring framework capabilities. A good hands-on for a beginner. "_
 
 ## Tech Stack
 
